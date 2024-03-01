@@ -7,7 +7,7 @@
 
 # 💻 Tech Stack:
 
-### [![My Skills](https://skillicons.dev/icons?i=linux,py,docker,git,postgres,mongodb,sklearn,tensorflow,pytorch,flask)](https://skillicons.dev)
+[![ #### My Skills](https://skillicons.dev/icons?i=linux,py,docker,git,postgres,mongodb,sklearn,tensorflow,pytorch,flask)](https://skillicons.dev)
 
 
 ## 🔗 Let's Connect!
