@@ -4,11 +4,8 @@
 + 🔭 I’m currently working on Machine Learning Fundamentals
 + 🧠 I'm learning Natural Language Processing Techniques
 
-
 # 💻 Tech Stack:
-
-[![ #### My Skills](https://skillicons.dev/icons?i=linux,py,docker,git,postgres,mongodb,sklearn,tensorflow,pytorch,flask)](https://skillicons.dev)
-
+<img src="https://skillicons.dev/icons?i=linux,py,docker,git,postgres,mongodb,sklearn,tensorflow,pytorch,flask" alt="My Skills" width="500" height="50">
 
 ## 🔗 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enesfehmimanan/)  [![Kaggle](https://img.shields.io/badge/kaggle-%230077B5.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/enesfehmimanan)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@enesmanan768)  [![Hackerrank](https://img.shields.io/badge/Hackerrank-12100E?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/enesmanan768) [![LeetCode](https://img.shields.io/badge/LeetCode-12100E?logo=LeetCode&logoColor=white)](https://leetcode.com/enesmanan/)
