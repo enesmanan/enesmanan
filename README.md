@@ -1,7 +1,7 @@
 # Hi 👋 My name is Enes Fehmi Manan
 + 🌍 I'm based in Izmır
 + ✉️ You can contact me at [enesmanan768@gmail.com](mailto:enesmanan768@gmail.com)
-+ 🔭 I’m currently working on Machine Learning Fundamentals
++ 🔭 I’m currently working on [Fibabanka](https://www.fibabanka.com.tr/)
 + 🧠 I'm learning Natural Language Processing Techniques
 
 # 💻 Tech Stack:
