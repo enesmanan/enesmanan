@@ -2,10 +2,10 @@
 + 🌍 I'm based in Izmır
 + ✉️ You can contact me at [enesmanan768@gmail.com](mailto:enesmanan768@gmail.com)
 + 🔭 I’m currently working on [Fibabanka](https://www.fibabanka.com.tr/)
-+ 🧠 I'm learning Natural Language Processing Techniques
++ 🧠 I'm learning Large Language Model
 
 # 💻 Tech Stack:
-<img src="https://skillicons.dev/icons?i=linux,py,vscode,docker,git,postgres,mongodb,sklearn,tensorflow,pytorch,flask" alt="My Skills" width="500" height="50">
+<img src="https://skillicons.dev/icons?i=linux,py,aws,vscode,docker,git,postgres,mongodb,sklearn,tensorflow,pytorch,flask" alt="My Skills" width="500" height="50">
 
 ## 🔗 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/enesfehmimanan/) [![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?logo=x&logoColor=white)](https://twitter.com/enesfehmimanan) [![Kaggle](https://img.shields.io/badge/kaggle-%230077B5.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/enesfehmimanan) 
