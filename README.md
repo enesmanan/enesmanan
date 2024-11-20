@@ -20,5 +20,8 @@
 ----------
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enesmanan&show_icons=true&theme=nightowl&hide_border=false" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesmanan&layout=compact&theme=nightowl&hide_border=false" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesmanan&layout=compact&theme=nightowl&hide_border=false&langs_count=8" alt="Top Languages" />
 </p>
+
+
+
