@@ -18,6 +18,7 @@
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCA00?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/enesmanan)
 
 ----------
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=enesmanan&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enesmanan&show_icons=true&theme=nightowl&hide_border=false" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesmanan&layout=compact&theme=nightowl&hide_border=false" alt="Top Languages" />
+</p>
