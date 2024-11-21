@@ -1,27 +1,29 @@
 # Hi 👋 My name is Enes Fehmi Manan
+
 + 🌍 I'm based in Izmır
 + ✉️ You can contact me at [enesmanan768@gmail.com](mailto:enesmanan768@gmail.com)
-+ 🔭 I’m currently working on [Fibabanka](https://www.fibabanka.com.tr/)
-+ 🧠 I'm learning Large Language Model
++ 🔭 I'm currently working on [Fibabanka](https://www.fibabanka.com.tr/)
++ 🧠 I'm learning Large Language Models
 
 # 💻 Tech Stack:
 <img src="https://skillicons.dev/icons?i=linux,py,aws,vscode,docker,git,postgres,mongodb,sklearn,tensorflow,pytorch,flask" alt="My Skills" width="500" height="50">
 
 ## 🔗 Let's Connect!
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLBXNZJG081DUbMjKT7jIRd46aWnCo0aXC)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2867B2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/enesfehmimanan/)
-[![Twitter](https://img.shields.io/badge/Twitter-4C9EEB?style=flat&logo=x&logoColor=white)](https://twitter.com/enesfehmimanan)
-[![Kaggle](https://img.shields.io/badge/Kaggle-0E75A7?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/enesfehmimanan)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@enesmanan768)
-[![Hackerrank](https://img.shields.io/badge/Hackerrank-1BA94C?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/enesmanan768)
-[![LeetCode](https://img.shields.io/badge/LeetCode-E8A300?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/enesmanan/)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFCA00?style=flat&logo=huggingface&logoColor=white)](https://huggingface.co/enesmanan)
-
-----------
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enesmanan&show_icons=true&theme=nightowl&hide_border=false" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesmanan&layout=compact&theme=nightowl&hide_border=false&langs_count=8" alt="Top Languages" />
+<a href="https://linkedin.com/in/enesfehmimanan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" /></a><a href="https://twitter.com/enesfehmimanan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" width="32" height="32" /></a>
+<a href="https://www.youtube.com/playlist?list=PLBXNZJG081DUbMjKT7jIRd46aWnCo0aXC" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="32" height="32" /></a>
+<a href="https://medium.com/@enesmanan768" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="32" height="32" /></a>
+<a href="https://www.kaggle.com/enesfehmimanan" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width="32" height="32" /></a>
+<a href="https://huggingface.co/enesmanan" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="32" height="32" /></a>
+<a href="https://leetcode.com/enesmanan/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="32" height="32" /></a>
+<a href="https://www.hackerrank.com/profile/enesmanan768" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="32" height="32" /></a>
 </p>
 
+----------
+
+<p>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enesmanan&show_icons=true&theme=nightowl&hide_border=false" alt="GitHub Stats" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesmanan&layout=compact&theme=nightowl&hide_border=false&langs_count=8" alt="Top Languages" />
+</p>
 
 
