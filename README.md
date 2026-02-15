@@ -1,29 +1,22 @@
-# Hi 👋 My name is Enes Fehmi Manan
+<h2 align="center">
+Hey 👋 I'm Enes, building AI products and growing communities
+</h2>
+<h4 align="center">
+<a href="https://medium.com/@enesmanan768">writing</a> · <a href="https://www.youtube.com/@enesfehmimanan">videos</a> · <a href="https://linkedin.com/in/enesfehmimanan">connect</a>
+</h4>
 
-+ 🌍 I'm based in Izmır
-+ ✉️ You can contact me at [enesmanan768@gmail.com](mailto:enesmanan768@gmail.com)
-+ 🔭 I'm currently working on [Fibabanka](https://www.fibabanka.com.tr/)
-+ 🧠 I'm learning Large Language Models
+I'm a Data Scientist from İzmir, working at [Fibabanka](https://www.fibabanka.com.tr/) on credit risk modeling and ML-driven solutions in banking. I'm passionate about LLMs and building LLM-based products, and currently working on [PathWay](https://pathwayai.io/), an AI venture I'm building from the ground up.
 
-# 💻 Tech Stack:
-<img src="https://skillicons.dev/icons?i=linux,py,aws,vscode,docker,git,postgres,mongodb,sklearn,tensorflow,pytorch,flask" alt="My Skills" width="500" height="50">
+I'm also an ML Developer Advocate at [RuneLab.ai](https://runelab.ai/), where I host expert talks, lead workshops and bootcamps on GenAI and production ML systems, and grow the community around modern AI practices. I do similar work at [Turkish AI Community](https://github.com/Turkish-AI-Community) and [Developer MultiGroup](https://github.com/Developer-MultiGroup) as well, running conferences, summits, trainings, and open-source projects like [Data Science Awesome](https://github.com/Developer-MultiGroup/DMG-Data-Science-Awesome) (500+ ⭐) and [Zero2End ML Bootcamp](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp).
 
-## 🔗 Let's Connect!
-<p align="left">
-<a href="https://linkedin.com/in/enesfehmimanan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" /></a><a href="https://twitter.com/enesfehmimanan" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" width="32" height="32" /></a>
-<a href="https://www.youtube.com/playlist?list=PLBXNZJG081DUbMjKT7jIRd46aWnCo0aXC" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="32" height="32" /></a>
-<a href="https://medium.com/@enesmanan768" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="32" height="32" /></a>
-<a href="https://www.kaggle.com/enesfehmimanan" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" width="32" height="32" /></a>
-<a href="https://huggingface.co/enesmanan" target="_blank" rel="noreferrer"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="32" height="32" /></a>
-<a href="https://leetcode.com/enesmanan/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="32" height="32" /></a>
-<a href="https://www.hackerrank.com/profile/enesmanan768" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="32" height="32" /></a>
-</p>
+I love building products, competing in hackathons & datathons, and shipping open-source tools like [LLMAutoEDA](https://github.com/enesmanan/LLMAutoEDA), [DataCommit](https://github.com/enesmanan/DataCommit), and [Feedback Agent](https://github.com/enesmanan/feedback-agent).
 
-----------
+✍️ Writing about data science and ML on [Medium](https://medium.com/@enesmanan768)  
+🎥 Sharing tutorials and talks on [YouTube](https://www.youtube.com/@enesfehmimanan)
 
-<p>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enesmanan&show_icons=true&theme=nightowl&hide_border=false" alt="GitHub Stats" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enesmanan&layout=compact&theme=nightowl&hide_border=false&langs_count=8" alt="Top Languages" />
-</p>
+## 🤗 Let's Connect!
 
-
+<a href="https://linkedin.com/in/enesfehmimanan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/enesfehmimanan" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://huggingface.co/enesmanan" target="_blank"><img alt="Hugging Face" src="https://img.shields.io/badge/🤗%20Hugging%20Face-yellow?style=for-the-badge" /></a>
+<a href="https://www.kaggle.com/enesfehmimanan" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>
