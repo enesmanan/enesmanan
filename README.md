@@ -9,7 +9,7 @@ I'm a Data Scientist from İzmir,Turkey, working at [Fibabanka](https://www.fiba
 
 I'm also an ML Developer Advocate at [RuneLab.ai](https://runelab.ai/), where I host expert talks, lead workshops and bootcamps on GenAI and production ML systems, and grow the community around modern AI practices. I do similar work at [Turkish AI Community](https://github.com/Turkish-AI-Community) and [Developer MultiGroup](https://github.com/Developer-MultiGroup) as well, running conferences, summits, trainings, and open-source projects like [Data Science Awesome](https://github.com/Developer-MultiGroup/DMG-Data-Science-Awesome) (500+⭐) and [Zero2End ML Bootcamp](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp).
 
-I love building products, competing in hackathons & datathons, and shipping open-source tools like [LLMAutoEDA](https://github.com/enesmanan/LLMAutoEDA), [DataCommit](https://github.com/enesmanan/DataCommit), and [Feedback Agent](https://github.com/enesmanan/feedback-agent).
+I love building products, competing in hackathons & datathons, and shipping open-source tools like [LLMAutoEDA](https://github.com/enesmanan/LLMAutoEDA), [GitArch](https://github.com/enesmanan/GitArch), and [DataCommit](https://github.com/enesmanan/DataCommit).
 
 ✍️ Writing about data science and ML on [Medium](https://medium.com/@enesmanan768)  
 🎥 Sharing tutorials and talks on [YouTube](https://www.youtube.com/@enesfehmimanan)
