@@ -2,9 +2,8 @@
 Hey 👋 I'm Enes, building AI products and growing communities 
 </h2>
 <h4 align="center">
-<a href="https://medium.com/@enesmanan768">writing</a> · <a href="https://www.youtube.com/@enesfehmimanan">videos</a> · <a href="https://linkedin.com/in/enesfehmimanan">connect</a>
+  <a href="https://enesmanan.dev">enesmanan.dev</a>
 </h4>
-
 I'm a Data Scientist from İzmir,Turkey, working at [Fibabanka](https://www.fibabanka.com.tr/) on credit risk modeling and ML driven solutions in banking. I'm passionate about LLMs and building LLM-based products, and currently working on [PathWay](https://pathwayai.io/), an AI venture I'm building from the ground up.
 
 I'm also an ML Developer Advocate at [RuneLab.ai](https://runelab.ai/), where I host expert talks, lead workshops and bootcamps on GenAI and production ML systems, and grow the community around modern AI practices. I do similar work at [Turkish AI Community](https://github.com/Turkish-AI-Community) and [Developer MultiGroup](https://github.com/Developer-MultiGroup) as well, running conferences, summits, trainings, and open-source projects like [Data Science Awesome](https://github.com/Developer-MultiGroup/DMG-Data-Science-Awesome) (500+⭐) and [Zero2End ML Bootcamp](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp).
